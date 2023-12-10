@@ -1,0 +1,147 @@
+body{
+    background-image:url('netflix-back.jpg');
+    height:100vh;
+    background-repeat:no-repeat;
+    background-size:cover;
+       
+    }
+    
+    .logo{
+        height:20vh;
+        width:30vh;
+    }
+    .bg-transparent{
+        height:32px;
+        width:83px;
+        color:silver;
+        border:1px silver solid;
+        font-weight:bold;
+        margin-top:40px;
+    
+    }
+    .btnn{
+       
+       margin-top:40px;
+       height:32px;
+       width:83px;
+       border:none;
+       background-color:red;
+       color:white;
+    
+    }
+    .home-heading{
+    color:white;
+    font-weight:bold;
+    margin-top:100px;
+    font-size:40px;
+    }
+    .home-para{
+        color:white;
+        font-size:22px;
+    }
+    .sub-para{
+        color:white;
+        font-size:15px;
+        margin-top:15px;
+    }
+    .btnnn{
+      
+       height:45px;
+       width:120px;
+       border:none;
+       border-radius:15px;
+       background-color:red;
+       color:white;
+       
+    
+    }
+    .btn-white{
+        border:none;
+        border-radius:5px;
+        font-size:15px;
+        padding:4px;
+       
+    }
+    .detailed-section{
+        background-image:url('avtr.jpg');
+        background-size:cover;
+        height:70vh;
+        margin-top:190px;
+    }
+    .av-heading{
+        color:white;
+        font-size:49px;
+        margin-top:300px;
+        font-weight:bold;
+    }
+    .av-para{
+        color:white;
+        font-size:22px;
+    }.image{
+        height:45vh;
+        width: 26vh; 
+        border:2px solid black;
+        border-radius:9px;
+        margin-left:12px;
+      
+    }
+    .image:hover{
+        -ms-transform: scale(1.1); /* IE 9 */
+        -webkit-transform: scale(1.1); /* Safari 3-8 */
+        transform: scale(1.1); 
+      }
+      .image1:hover{
+        -ms-transform: scale(1.1); /* IE 9 */
+        -webkit-transform: scale(1.1); /* Safari 3-8 */
+        transform: scale(1.1); 
+      }
+    
+    .image1{
+        height:45vh;
+        width:26vh;
+        margin-left:0p;
+        border:2px solid black;
+        border-radius:9px;
+      
+    }
+    .movie-head{
+        margin-top:30px;
+        color:white;
+        font-size:30px;
+    }
+    .icon{
+        margin-left:16px;
+    }
+    .last-para{
+        color:gray;
+        
+    }
+    .otp-field {
+        display: flex;
+        align-items: center;
+        text-align: center;
+      }
+    .otp-field input {
+        width: 25px;
+        font-size: 25px;
+        padding: 0px;
+        border-radius: 5px;
+        margin: 2px;
+        border: 2px solid #55525c;
+        background: #272932;
+        font-weight: bold;
+        color: #fff;
+        transition: all 0.1s;
+        align-items: center;
+      }
+      .otp-field input:focus {
+        border: 2px solid #ff3227;
+        box-shadow: 0 0 2px 2px #fd1201f9;
+      }
+      .disabled {
+        opacity: 0.5;
+      }
+      .space {
+        margin-right: 1rem !important;
+      }
+    
